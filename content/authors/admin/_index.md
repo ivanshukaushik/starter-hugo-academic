@@ -4,9 +4,10 @@ role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - MachineLearning
+  - ComputerVision
+  - ImageProcessing
+  - 3DComputerVision
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,9 +42,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi I’m Ivanshu Kaushik, a senior year undergraduate at Birla institute of technology and science, Pilani, India. I am a visiting student at CVRL under Prof. Ahuja. I am working on the AIFARMS project, where we are trying to develop AI based solutions for practical problems. My main research interests lie in 3D computer vision including but not limited to reconstruction and depth prediction algorithms.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
